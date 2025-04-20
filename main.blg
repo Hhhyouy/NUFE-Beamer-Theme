@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2020/W32TeX)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+The style file: gbt7714-numerical.bst
+A level-1 auxiliary file: ./Graphics/Comparative_advantage.aux
+A level-1 auxiliary file: ./Graphics/Indifference_curve.aux
+A level-1 auxiliary file: ./Graphics/neoclassical_investment.aux
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: ./Article/reference.bib
+You've used 11 entries,
+            4281 wiz_defined-function locations,
+            989 strings with 9119 characters,
+and the built_in function-call counts, 33028 in all, are:
+= -- 979
+> -- 3342
+< -- 4404
++ -- 1379
+- -- 331
+* -- 301
+:= -- 4762
+add.period$ -- 36
+call.type$ -- 11
+change.case$ -- 26
+chr.to.int$ -- 1213
+cite$ -- 11
+duplicate$ -- 198
+empty$ -- 508
+format.name$ -- 100
+if$ -- 8491
+int.to.chr$ -- 1
+int.to.str$ -- 12
+missing$ -- 0
+newline$ -- 65
+num.names$ -- 37
+pop$ -- 1250
+preamble$ -- 1
+purify$ -- 11
+quote$ -- 0
+skip$ -- 3290
+stack$ -- 0
+substring$ -- 1760
+swap$ -- 16
+text.length$ -- 80
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 131
+warning$ -- 0
+while$ -- 118
+width$ -- 0
+write$ -- 164

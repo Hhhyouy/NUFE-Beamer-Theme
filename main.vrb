@@ -1,0 +1,23 @@
+\frametitle{代码块和脚注\footnote {由于listings包没有stata的代码高亮，因此选用Python}}
+\begin{columns}
+    \column{.65\textwidth}
+    \begin{lstlisting}[language=Python]
+#数据处理
+import pandas as pd
+import numpy as np
+
+add_value = add_value[
+    add_value['Accper'].dt.year
+    > 2006
+    ]
+add_value.fillna(
+    {'Fn05602':0},
+    inplace=True
+    )
+add_value.dropna()
+    \end{lstlisting}
+    \column{.3\textwidth}
+    使用Python进行数据清洗，其中最常见的两个库是pandas和numpy。两者都经过底层代码的优化，numpy的广播运算相对于直接使用Python循环快很多。
+
+    代码使用\CJKunderdot{\kaishu 等宽字体}，如需调整可以搜索NUFE.sty。
+    \end{columns}

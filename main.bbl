@@ -1,0 +1,72 @@
+\begin{thebibliography}{11}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax\else
+  \urlstyle{same}\fi
+
+\bibitem[Abdulkadiroğlu et~al.(2014)Abdulkadiroğlu, Angrist, and
+  Pathak]{Article2014}
+ABDULKADIROğLU~A, ANGRIST~J, PATHAK~P.
+\newblock The elite illusion: Achievement effects at boston and new york exam
+  schools\allowbreak[J].
+\newblock Econometrica, 2014, 82\penalty0 (1):\penalty0 137-196.
+
+\bibitem[COASE(1960)]{Article1960}
+COASE~R~H.
+\newblock The {Problem} of {Social} {Cost}\allowbreak[J].
+\newblock The Journal of Law and Economics, 1960, 3.
+
+\bibitem[林毅夫\ 等(2007)林毅夫 and 任若恩]{Article2007}
+林毅夫, 任若恩.
+\newblock 东亚经济增长模式相关争论的再探讨\allowbreak[J].
+\newblock 经济研究, 2007\penalty0 (8):\penalty0 4-12+57.
+
+\bibitem[国家统计局(2024)]{Database2024}
+国家统计局.
+\newblock 不变价核算方法\allowbreak[DB/OL].
+\newblock 2024\allowbreak[2025-02-05].
+\newblock
+  \url{https://www.stats.gov.cn/zs/tjws/zytjzbqs/gnsczz/202412/t20241220_1957808.html}.
+
+\bibitem[Olley et~al.(1996)Olley and Pakes]{Article1996}
+OLLEY~G~S, PAKES~A.
+\newblock The {Dynamics} of {Productivity} in the {Telecommunications}
+  {Equipment} {Industry}\allowbreak[J].
+\newblock Econometrica, 1996, 64\penalty0 (6):\penalty0 1263-1297.
+
+\bibitem[Melitz(2003)]{Article2003}
+MELITZ~M~J.
+\newblock The impact of trade on intra-industry reallocations and aggregate
+  industry productivity\allowbreak[J].
+\newblock Econometrica, 2003, 71\penalty0 (6):\penalty0 1695-1725.
+
+\bibitem[Cobb et~al.(1928)Cobb and Douglas]{Article1928}
+COBB~C~W, DOUGLAS~P~H.
+\newblock A theory of production\allowbreak[J].
+\newblock The American Economic Review, 1928, 18\penalty0 (1):\penalty0
+  139-165.
+
+\bibitem[许小年(2023)]{Article2023}
+许小年.
+\newblock
+  浅析日本失去的30年——兼评“资产负债表衰退”\allowbreak[J].
+\newblock 中国改革, 2023\penalty0 (6):\penalty0 26-38.
+
+\bibitem[林毅夫(2011)]{Article2011}
+林毅夫.
+\newblock 新结构经济学——重构发展经济学的框架\allowbreak[J].
+\newblock 经济学(季刊), 2011, 10\penalty0 (1):\penalty0 1-32.
+
+\bibitem[McKinney(2018)]{Book2018}
+MCKINNEY~W.
+\newblock 利用Python进行数据分析\allowbreak[M].
+\newblock 徐敬一, 译.
+\newblock 北京: 机械工业出版社, 2018.
+
+\bibitem[卡尔·波普尔(2009)]{Book2009}
+卡尔·波普尔.
+\newblock 历史决定论的贫困\allowbreak[M].
+\newblock 杜汝楫, 译.
+\newblock 上海: 上海人民出版社, 2009.
+
+\end{thebibliography}

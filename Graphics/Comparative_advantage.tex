@@ -1,0 +1,24 @@
+\begin{figure}[htp]
+    \centering
+    \begin{tikzpicture}[scale=0.8]
+        \draw[-] (0,0) -- (5,0) node[below] {$X$};
+        \draw[-] (0,0) -- (0,5) node[left] {$Y$};
+        \coordinate[label=below left:$O$] (O) at (0,0);
+        \draw [thick,Vintage_4] (0,4) .. controls (2, 3.5) .. (4,0)
+            node[
+                pos = 0.6,
+                sloped,
+                anchor = south west
+            ] (A) {};
+        \draw[thick,Vintage_4] ($(A.south east) ! 2cm ! (A.south west)$)--($(A.south west) ! 3cm ! (A.south east)$);
+
+        \coordinate (d) at ($(A.south west) ! 2cm ! 90 : (A.south east)$);
+        \coordinate (d2) at ($(d) ! 1 ! 40 : (A.south west)$);        
+        \coordinate (d3) at ($(d) ! 1 ! -30 : (A.south west)$);
+        \foreach \point in {A.south west}
+            \fill[Vintage_4,opacity=0.5] (\point) circle (2pt);
+        \tkzDrawArc[thick,Vintage_4](d,d3)(d2)
+    \end{tikzpicture}
+    \caption{机会成本递增情况下比较优势}
+    \label{compa}
+\end{figure}
